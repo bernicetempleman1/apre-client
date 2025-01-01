@@ -9,5 +9,5 @@
 export const environment = {
   production: true,
   //apiBaseUrl: 'http://localhost:3000/api'
-  apiBaseUrl: 'https://apre-server.onrender.com.api'
+  apiBaseUrl: 'https://apre-server.onrender.com/api'
 };
